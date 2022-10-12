@@ -2,7 +2,7 @@
 
 const reverse = require('./index');
 
-test('Reverse function exists', () => {
+test('Reverse function is defined', () => {
   expect(reverse).toBeDefined();
 });
 
